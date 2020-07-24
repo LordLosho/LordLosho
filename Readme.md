@@ -4,7 +4,7 @@
 # BIO
 CEO on [Spiders From Mars](https://twitter.com/SpidersMarsStu)  
 
-🎮 Game developer 👾 Pixel art fan 🏀 Sport and fitness and 
+🎮 Game developer 👾 Pixel art fan 🏀 Sport and fitness
   
 ☕ Coffee without sugar please
 
