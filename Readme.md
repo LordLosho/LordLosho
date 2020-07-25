@@ -16,7 +16,7 @@ CEO on [Spiders From Mars](https://twitter.com/SpidersMarsStu)
 
 | <a href="https://github.com/LordLosho/Fit_geek" target="_blank">**FitGeek**</a> | <a href="https://github.com/LordLosho/Kuro-N-hiro-proyect" target="_blank">**Proyect Kuro N Hiro**</a> | <a href="google.com" target="_blank">**Proyect Cassete**</a> | 
 | :---: | :---: | :---: |
-| <img align='center' src='https://github.com/LordLosho/LordLosho/blob/master/projects/FitGeek.png?raw=true' height='100px'> | <img align='center' src='https://github.com/LordLosho/LordLosho/blob/master/Sprites/Kuronhiro.png' height='100px'> | <img align='center' src='https://github.com/LordLosho/LordLosho/blob/master/projects/Cassete.png?raw=true' height='100px'>  
+| <img align='center' src='https://github.com/LordLosho/LordLosho/blob/master/projects/FitGeek.png?raw=true' height='100px'> | <img align='center' src='https://github.com/LordLosho/LordLosho/blob/master/Sprites/kuronhiro.png' height='100px'> | <img align='center' src='https://github.com/LordLosho/LordLosho/blob/master/projects/Cassete.png?raw=true' height='100px'>  
 | <a href="https://github.com/LordLosho/Fit_geek" target="_blank">`github.com/LordLosho/Fit_geek`</a> | <a href="https://github.com/LordLosho/Kuro-N-hiro-proyect" target="_blank">`github.com/LordLosho/Kuro-N-hiro-proyect`</a> | <a href="http://google.com" target="_blank">`N/A`</a> 
 
 
